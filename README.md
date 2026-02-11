@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm @JDMollineda  
+# 👋 Hey there, I'm Jesus Daniel Mollineda
 
 Welcome to my developer corner!  
 
