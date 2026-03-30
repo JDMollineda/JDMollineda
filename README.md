@@ -1,52 +1,106 @@
-# 👋 Hey there, I'm Jesus Daniel Mollineda
+# 👋 Hola, I'm Jesus Daniel Mollineda
 
-Welcome to my developer corner!  
+**Cuban Immigrant → Full‑Stack Developer → Technology Strategist → Educator → Founder**
 
-I'm a passionate software developer with a strong foundation in both front-end and back-end development. I thrive on learning new technologies, solving complex problems, and building intuitive, user-centered applications. Whether it's crafting seamless UI experiences, developing robust APIs, or diving into security and networking, I love bringing ideas to life through code.  
+I build digital solutions that solve real business problems, empower underserved communities, and bridge cultures through technology.  
+From arriving in the U.S. at 19 with fifty words of English to founding two technology companies, my journey has been shaped by resilience, focus, and a deep love for building things that matter.
 
-## 🚀 About Me  
-- 👀 Always exploring the latest in technology  
-- 🌱 Constantly learning and expanding my skillset (currently learning Java)  
-- 💞️ Open to collaborating on exciting projects  
-- 📫 Reach me at **jesusmollineda88@gmail.com** or [LinkedIn](https://www.linkedin.com/in/jdmollineda)  
-- 🌐 Visit my personal website: [www.jdmollineda.com](https://www.jdmollineda.com)  
+---
 
-## 🛠️ Technical Skills  
+## 🚀 What I Do
 
-### Front-end Development  
-- **Languages:** HTML, CSS, JavaScript (ES6+)  
-- **Frameworks & Libraries:** React, Redux, Sass, Bootstrap, jQuery  
-- **Experience:** Building responsive, interactive web applications with smooth animations and engaging user interactions  
+### **💻 Full‑Stack Development**
+I architect and build applications that streamline operations and drive real‑world impact:
+- Scheduling & tracking systems for government agencies  
+- Inventory, logistics, and operational tools for businesses  
+- Custom business applications tailored to unique workflows  
+- Complete digital presence builds (UI/UX, branding, development, SEO)
 
-### Back-end Development  
-- **Languages:** Python (Django), PHP (basic knowledge and practice), SQL, MongoDB  
-- **Frameworks & Libraries:** Django REST Framework, PostgreSQL  
-- **Experience:** Developing APIs, managing databases, and building scalable web services  
+### **🧭 Technology Strategy & Consulting**
+I help businesses make smart technology decisions with clarity and confidence:
+- Digital transformation planning  
+- Systems architecture & solution design  
+- Cybersecurity awareness & best practices  
+- Bilingual consulting for English & Spanish‑speaking clients  
 
-### UX/UI & Graphic Design  
-- **Tools:** Figma, Sketch, Inkscape  
-- **Experience:** Designing intuitive user interfaces with a focus on usability, accessibility, and aesthetics  
-- **Vector & Raster Graphics:** Extensive experience working with vector graphics and raster images for digital and web applications  
+### **🎨 UX/UI & Digital Branding**
+I design cohesive digital identities:
+- UI/UX design focused on usability  
+- Brand identity systems  
+- Vector & raster graphics for web and digital media  
 
-### Networks, Security & Systems  
-- **Operating Systems:** Linux (Ubuntu, CentOS, Debian)  
-- **Security Systems:** Network security, firewalls, encryption, and secure authentication  
-- **Networking:** Configuring and managing network infrastructures, troubleshooting connectivity issues  
+### **📚 Teaching & Workforce Development**
+I’ve trained **2,000+ students** through structured programs in:
+- Front‑end development (HTML, CSS, JS, Bootstrap, Sass)  
+- Graphic design (Inkscape, GIMP, Krita, color theory)  
+- Career development, resume building, and interview prep  
+- Monthly workshops on entrepreneurship & digital skills  
 
-### Teaching & Collaboration  
-- **Tech Education:** Experience teaching technology classes, mentoring, and guiding learners in software development  
-- **Teamwork:** Strong ability to collaborate, communicate, and contribute effectively in team environments  
-- **Agile Development:** Scrum methodologies, version control (Git), CI/CD pipelines  
+Teaching is personal to me — I see myself in every student starting from zero.
 
-### Ongoing Learning & Experience  
-- **Currently Learning:** Java and expanding expertise in software architecture  
-- **Client Work & Projects:** Successfully delivered multiple projects for various clients—references available upon request  
+---
 
-## 🤝 Let's Connect!  
-I'm always eager to collaborate on innovative projects and contribute to meaningful solutions. I bring a strong technical foundation, a willingness to learn, and a team-oriented mindset to every project. If you're looking for a dedicated developer to join your team or work on an exciting venture, let's chat!  
+## 🧱 My Companies
+
+### **🚀 My LaunchPoint Tech**
+Technology consulting, full‑stack development, cybersecurity, and enterprise solutions.
+
+### **🔥 Impulso Empresarial Digital**
+Bilingual, culturally‑aware digital services for Hispanic entrepreneurs and small businesses.
+
+Both companies reflect my mission:  
+**Use technology to empower people, communities, and businesses.**
+
+---
+
+## 🛠️ Technical Skills
+
+### **Front‑End**
+- HTML, CSS, Sass, JavaScript (ES6+), React, Redux, Bootstrap
+
+### **Back‑End**
+- Python (Django, DRF), Node.js, PHP (basic), SQL, PostgreSQL, MongoDB
+
+### **Design**
+- Figma, Inkscape, GIMP, Sketch  
+- UI/UX design, branding, vector & raster graphics
+
+### **Systems, Networking & Security**
+- Linux (Ubuntu, CentOS, Debian)  
+- Network configuration, firewalls, secure authentication  
+- Cybersecurity fundamentals & best practices
+
+### **Other**
+- Git, GitHub, CI/CD  
+- Agile/Scrum  
+- Technical training & curriculum development  
+
+---
+
+## 🌱 Currently Exploring
+- Cybersecurity & network architecture  
+- Advanced software architecture  
+- Java  
+- Emerging technologies shaping the next decade  
+
+---
+
+## 🌎 A Bit of My Story
+I came to the U.S. from Cuba with nothing but determination and a passion for technology.  
+I learned English like debugging a program — one error at a time.  
+I built my career one line of code at a time.  
+Now I help others do the same.
+
+My mission is simple:  
+**Build solutions that last. Empower people who need it most. Never stop learning.**
+
+---
+
+## 🤝 Let’s Connect
+I’m always open to collaborating on meaningful projects, speaking at events, or helping businesses navigate technology with clarity.
 
 📩 **Email:** jesusmollineda88@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/jdmollineda](https://www.linkedin.com/in/jdmollineda)  
-🌐 **Website:** [www.jdmollineda.com](https://www.jdmollineda.com)  
+🔗 **LinkedIn:** https://www.linkedin.com/in/jdmollineda  
+🌐 **Website:** https://www.jesusdanielmollineda.com  
 
-Thanks for stopping by—let's build something amazing together! 🚀  
+Thanks for stopping by — let’s build something impactful. 🚀
